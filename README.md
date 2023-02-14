@@ -10,6 +10,8 @@ The items that have been reviewed are:
 * Using various cost functions such as MSE and MAPE
 * The effect of using dropout
 
+## Training phase
+
 See the **performance of the best trained model** in the image below:
 
 <p align=center>
@@ -22,8 +24,27 @@ See the **performance of the best trained model** in the image below:
   <img src="https://github.com/farkoo/Stock-Market-Detection/blob/master/LossDig.png">
 </p>
 
+## Test phase
+
 Performance of the best trained model for **unseen data**:
 
 <p align=center>
   <img src="https://github.com/farkoo/Stock-Market-Detection/blob/master/TestPerformance.png">
 </p>
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Stock-Market-Detection/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
